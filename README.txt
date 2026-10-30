@@ -66,7 +66,7 @@ Before running the application, make sure you have:
  1. Clone the Repository
 
 bash
-git clone <your-github-repository-url>
+git clone https://github.com/akshayashokm/PratraFlightSearch.git
 
 
 Open the solution in Visual Studio.
