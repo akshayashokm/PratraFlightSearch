@@ -125,7 +125,6 @@ json
   "arrivalTime": "2026-11-15T11:00:00",
   "price": 18500
 }
-```
 
 Expected Response: 201 Created
 
