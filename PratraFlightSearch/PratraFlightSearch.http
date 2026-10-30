@@ -1,0 +1,6 @@
+@PratraFlightSearch_HostAddress = http://localhost:5291
+
+GET {{PratraFlightSearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
